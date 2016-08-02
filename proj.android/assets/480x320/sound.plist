@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>texture</key>
+    <dict>
+        <key>width</key>
+        <integer>48</integer>
+        <key>height</key>
+        <integer>92</integer>
+    </dict>
+    <key>frames</key>
+    <dict>
+        <key>sound_01.png</key>
+        <dict>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>48</integer>
+            <key>height</key>
+            <integer>46</integer>
+            <key>offsetX</key>
+            <real>0</real>
+            <key>offsetY</key>
+            <real>0</real>
+            <key>originalWidth</key>
+            <integer>48</integer>
+            <key>originalHeight</key>
+            <integer>46</integer>
+        </dict>
+        <key>sound_02.png</key>
+        <dict>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>46</integer>
+            <key>width</key>
+            <integer>48</integer>
+            <key>height</key>
+            <integer>46</integer>
+            <key>offsetX</key>
+            <real>0</real>
+            <key>offsetY</key>
+            <real>0</real>
+            <key>originalWidth</key>
+            <integer>48</integer>
+            <key>originalHeight</key>
+            <integer>46</integer>
+        </dict>
+    </dict>
+</dict>
+</plist>
